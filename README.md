@@ -14,4 +14,4 @@ It shall appear a new group called ABNT, just after Symbols group, into Insert R
 
 4. Under Global templates and add-ins, select the check box next to the template or add-in that you want to load.
 
-4.1. If the template or add-in you want does not appear in the box, click Add, copy the file `template-ABNT.dotm` to current folder, select the file and then click OK.
+5. If the add-in you want does not appear in the box, click Add, copy the file `template-ABNT.dotm` to current folder, select the file and then click OK.
