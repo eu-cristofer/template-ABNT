@@ -1,0 +1,12 @@
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui">
+	<ribbon>
+		<tabs>
+			<tab idMso="TabInsert">
+				<group id="ABNT" label="ABNT" insertAfterMso="Symbols">
+					<button id="createABNTStyles" label="Create ABNT Styles" size="large" imageMso="AddToMySite" onAction="createAbntStyles" />
+					<button id="createABNTTOC" label="Create ABNT TOC" size="large" imageMso="TableOfContentsGallery" onAction="createAbntTOC" />
+				</group>
+			</tab>
+		</tabs>
+	</ribbon>
+</customUI>
